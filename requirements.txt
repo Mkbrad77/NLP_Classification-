@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+scipy
+numpy
+nltk
+seaborn
+matplotlib
+gdown
+stop_words
+numpy
+spacy
+pycountry
+plotly
+nbformat
+ipywidgets
+thinc
